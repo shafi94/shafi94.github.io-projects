@@ -1,0 +1,137 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shafi94.projects.github.io" resolutions="1x" timestamp="1551290220858">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="4293335625" ref="index:order:contact:resistor,-variable-resistor---ldr:transisitor---mosfet:relay:spare-parts:soalr-panel:policy:board:led---ir:capacitors:ic---base:battery:connector:other-parts"/>
+    <file name="index.css" crc="4135653143" ref="index"/>
+    <file name="order.css" crc="195488912" ref="order"/>
+    <file name="contact.css" crc="14486364" ref="contact"/>
+    <file name="resistor_-variable-resistor---ldr.css" crc="263456664" ref="resistor,-variable-resistor---ldr"/>
+    <file name="transisitor---mosfet.css" crc="58437194" ref="transisitor---mosfet"/>
+    <file name="relay.css" crc="157457301" ref="relay"/>
+    <file name="spare-parts.css" crc="4194427275" ref="spare-parts"/>
+    <file name="soalr-panel.css" crc="91346102" ref="soalr-panel"/>
+    <file name="policy.css" crc="190375833" ref="policy"/>
+    <file name="board.css" crc="364912453" ref="board"/>
+    <file name="led---ir.css" crc="226820511" ref="led---ir"/>
+    <file name="capacitors.css" crc="64270320" ref="capacitors"/>
+    <file name="ic---base.css" crc="229284521" ref="ic---base"/>
+    <file name="battery.css" crc="251599741" ref="battery"/>
+    <file name="connector.css" crc="343547898" ref="connector"/>
+    <file name="other-parts.css" crc="4175079035" ref="other-parts"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:spare-parts:order:policy:contact:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
+    <file name="museutils.js" crc="183364071" ref="index:spare-parts:order:policy:contact:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:spare-parts:order:policy:contact:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
+    <file name="pie.js" crc="3827607177" ref="index:order:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:spare-parts:order:policy:contact:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:spare-parts:order:policy:contact:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
+    <file name="webpro.js" crc="3803554875" ref="contact"/>
+    <file name="form_check.php" crc="277267350" ref="contact"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contact"/>
+    <file name="form_process.php" crc="24249335" ref="contact"/>
+    <file name="form-u955.php" crc="59979123" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo science.jpg" crc="3820908271" ref="index:order"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:order"/>
+    <file name="331410.jpg" crc="30604949" ref="index:order"/>
+    <file name="pir.jpg" crc="4200950119" ref="index"/>
+    <file name="ir security.jpg" crc="390163346" ref="index"/>
+    <file name="dark.jpg" crc="4210704071" ref="index"/>
+    <file name="auto water.jpg" crc="3832399560" ref="index"/>
+    <file name="52545256_2502468283156833_5118866276776673280_n.jpg" crc="4059029853" ref="index"/>
+    <file name="12v power.jpg" crc="4270367997" ref="index"/>
+    <file name="52602710_308713683123493_8679557150579621888_n.jpg" crc="4276602788" ref="index"/>
+    <file name="53160330_289607518399644_6098170291152748544_n.jpg" crc="78460774" ref="index"/>
+    <file name="u962-17.png" crc="209646756" ref="contact"/>
+    <file name="u962-17-r.png" crc="92616207" ref="contact"/>
+    <file name="u962-17-m.png" crc="268333425" ref="contact"/>
+    <file name="u962-17-fs.png" crc="393394323" ref="contact"/>
+    <file name="img_20190225_122504-u1058-fr.jpg" crc="3773497308" ref="led---ir"/>
+    <file name="img_20190225_122654-u1059-fr.png" crc="109747208" ref="led---ir"/>
+    <file name="img_20190225_122823-u1064-fr.jpg" crc="3835808218" ref="led---ir"/>
+    <file name="img_20190225_121133.jpg" crc="4002810710" ref="led---ir"/>
+    <file name="img_20190225_121224-u1060-fr.jpg" crc="230931840" ref="led---ir"/>
+    <file name="img_20190225_121311-u1065-fr.jpg" crc="4241966186" ref="led---ir"/>
+    <file name="img_20190225_010718-u1118-fr.jpg" crc="3901361333" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_010604-u1120-fr.jpg" crc="3933801660" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_010003-u1121-fr.jpg" crc="4210887602" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_010344-u1119-fr.jpg" crc="3835361618" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_010142-u1122-fr.jpg" crc="467980893" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_010500-u1123-fr.jpg" crc="4119542694" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_182716.jpg" crc="16319408" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_182641.jpg" crc="196380477" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_182532.jpg" crc="4068074058" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_182759.jpg" crc="3950226717" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_182854.jpg" crc="3791917066" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_121031-u1570-fr.jpg" crc="4251527464" ref="resistor,-variable-resistor---ldr"/>
+    <file name="img_20190225_182358.jpg" crc="138157109" ref="capacitors"/>
+    <file name="img_20190225_182312.jpg" crc="36898584" ref="capacitors"/>
+    <file name="img_20190225_182211.jpg" crc="3800585549" ref="capacitors"/>
+    <file name="img_20190225_182102.jpg" crc="117736599" ref="capacitors"/>
+    <file name="img_20190225_181754.jpg" crc="473920994" ref="capacitors"/>
+    <file name="img_20190225_181831.jpg" crc="4101117508" ref="capacitors"/>
+    <file name="img_20190225_181919.jpg" crc="3890954747" ref="capacitors"/>
+    <file name="img_20190225_121509-u1158-fr.jpg" crc="401836611" ref="transisitor---mosfet"/>
+    <file name="img_20190225_121601-u1160-fr.jpg" crc="128737593" ref="transisitor---mosfet"/>
+    <file name="img_20190225_121710-u1161-fr.jpg" crc="3834327819" ref="transisitor---mosfet"/>
+    <file name="img_20190225_121755-u1159-fr.jpg" crc="4014586010" ref="transisitor---mosfet"/>
+    <file name="img_20190225_121842-u1162-fr.jpg" crc="3759940962" ref="transisitor---mosfet"/>
+    <file name="img_20190225_121927-u1163-fr.jpg" crc="4282510409" ref="transisitor---mosfet"/>
+    <file name="img_20190225_122006-u1408-fr.jpg" crc="3966629259" ref="transisitor---mosfet"/>
+    <file name="img_20190225_122100.jpg" crc="479156783" ref="transisitor---mosfet"/>
+    <file name="img_20190225_122207.jpg" crc="375540665" ref="transisitor---mosfet"/>
+    <file name="img_20190225_115338-u1178-fr.jpg" crc="4199810867" ref="ic---base"/>
+    <file name="img_20190225_115506-u1180-fr.jpg" crc="3995476848" ref="ic---base"/>
+    <file name="img_20190225_115553-u1181-fr.jpg" crc="4000720532" ref="ic---base"/>
+    <file name="img_20190225_115715-u1179-fr.jpg" crc="123017307" ref="ic---base"/>
+    <file name="img_20190225_115810-u1182-fr.jpg" crc="216642940" ref="ic---base"/>
+    <file name="img_20190225_115944-u1183-fr.jpg" crc="3932835114" ref="ic---base"/>
+    <file name="img_20190225_120024.jpg" crc="465949" ref="ic---base"/>
+    <file name="img_20190225_120323-u1474-fr.jpg" crc="220214019" ref="ic---base"/>
+    <file name="img_20190225_175344.jpg" crc="230199816" ref="ic---base"/>
+    <file name="img_20190225_175420.jpg" crc="12359406" ref="ic---base"/>
+    <file name="img_20190225_011020-u1198-fr.jpg" crc="3920448051" ref="relay"/>
+    <file name="img_20190225_011113-u1200-fr.jpg" crc="17797075" ref="relay"/>
+    <file name="img_20190225_011153-u1201-fr.jpg" crc="4025398358" ref="relay"/>
+    <file name="18-03-27-9v-6f22-carbon-zinc-battery.jpg" crc="4155718298" ref="battery"/>
+    <file name="img_20190225_181455.jpg" crc="283183656" ref="battery"/>
+    <file name="img_20190225_181608.jpg" crc="4096883207" ref="battery"/>
+    <file name="img_20190225_120443.jpg" crc="4178440585" ref="board"/>
+    <file name="img_20190225_120841-u1240-fr.jpg" crc="112224506" ref="board"/>
+    <file name="img_20190225_120739.jpg" crc="3924991786" ref="board"/>
+    <file name="img_20190225_120941.jpg" crc="3864808971" ref="board"/>
+    <file name="img_20190225_114548-u1258-fr.jpg" crc="159105490" ref="connector"/>
+    <file name="img_20190225_114851-u1260-fr.jpg" crc="3912442298" ref="connector"/>
+    <file name="img_20190225_115046-u1261-fr.jpg" crc="278522484" ref="connector"/>
+    <file name="img_20190225_115154-u1259-fr.jpg" crc="112537330" ref="connector"/>
+    <file name="img_20190225_180045.jpg" crc="66651092" ref="connector"/>
+    <file name="img_20190225_005548-u1278-fr.jpg" crc="4231426432" ref="soalr-panel"/>
+    <file name="img_20190225_005652-u1280-fr.jpg" crc="116153215" ref="soalr-panel"/>
+    <file name="img_20190225_181118.jpg" crc="4199393627" ref="other-parts"/>
+    <file name="img_20190225_175507.jpg" crc="374255905" ref="other-parts"/>
+    <file name="img_20190225_175818.jpg" crc="13326962" ref="other-parts"/>
+    <file name="img_20190225_175915.jpg" crc="349739165" ref="other-parts"/>
+    <file name="img_20190225_175613.jpg" crc="351093949" ref="other-parts"/>
+    <file name="img_20190225_175720.jpg" crc="4137774710" ref="other-parts"/>
+    <file name="web.png" crc="220047897" seo="true" ref="index:spare-parts:order:policy:contact:led---ir:resistor,-variable-resistor---ldr:capacitors:transisitor---mosfet:ic---base:relay:battery:board:connector:soalr-panel:other-parts"/>
+  </folder>
+  <file name="index.html" crc="4036728280" seo="true" mt="1551289940313" redirect="true"/>
+  <file name="spare-parts.html" crc="4269317607" seo="true" mt="1551289940314" redirect="true"/>
+  <file name="order.html" crc="401103559" seo="true" mt="1551290200921" redirect="true"/>
+  <file name="policy.html" crc="4168482718" seo="true" mt="1551289940315" redirect="true"/>
+  <file name="contact.html" crc="482858104" seo="true" mt="1551289940316" redirect="true"/>
+  <file name="led---ir.html" crc="455280777" seo="true" mt="1551289940317" redirect="true"/>
+  <file name="resistor,-variable-resistor---ldr.html" crc="3979820582" seo="true" mt="1551289940318" redirect="true"/>
+  <file name="capacitors.html" crc="4112222470" seo="true" mt="1551289940318" redirect="true"/>
+  <file name="transisitor---mosfet.html" crc="237836101" seo="true" mt="1551289940319" redirect="true"/>
+  <file name="ic---base.html" crc="4041796092" seo="true" mt="1551289940320" redirect="true"/>
+  <file name="relay.html" crc="131499525" seo="true" mt="1551289940321" redirect="true"/>
+  <file name="battery.html" crc="4008290165" seo="true" mt="1551289940322" redirect="true"/>
+  <file name="board.html" crc="4130491048" seo="true" mt="1551289940322" redirect="true"/>
+  <file name="connector.html" crc="429283770" seo="true" mt="1551289940323" redirect="true"/>
+  <file name="soalr-panel.html" crc="4028198738" seo="true" mt="1551289940324" redirect="true"/>
+  <file name="other-parts.html" crc="3817354146" seo="true" mt="1551289940325" redirect="true"/>
+</manifest>
